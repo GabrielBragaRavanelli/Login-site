@@ -63,7 +63,7 @@ Aqui estão os comportamentos que você pode aplicar a um elemento específico:
 •	flex-start: Alinha o item individual ao início do container.
 •	flex-end: Alinha o item individual ao final do container.
 
-Ademais, A propriedade flex-wrap é a solução para quando você tem mais itens do que o espaço do container permite carregar em uma única linha. Ela decide se os itens devem ser "esmagados" ou se devem pular para uma nova linha.
+Ademais, a propriedade flex-wrap é a solução para quando você tem mais itens do que o espaço do container permite carregar em uma única linha. Ela decide se os itens devem ser "esmagados" ou se devem pular para uma nova linha.
 Os Modos de Quebra de Linha
 •	nowrap (Padrão): Tenta manter todos os itens em uma única linha, não importa quantos sejam. Se houver muitos itens, eles podem transbordar o container ou encolher até o limite mínimo para caber.
 •	wrap: Permite que os itens que não cabem na primeira linha pulem para a linha de baixo. Isso cria um layout multi-linhas que se ajusta conforme o tamanho da tela diminui.
